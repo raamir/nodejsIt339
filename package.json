@@ -1,0 +1,22 @@
+{
+  "name": "my-nodeapp-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raamir/nodejsIt339.git"
+  },
+  "author": "RIJA AAMIR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raamir/nodejsIt339/issues"
+  },
+  "homepage": "https://github.com/raamir/nodejsIt339#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
